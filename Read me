@@ -1,0 +1,66 @@
+This project presents a comprehensive analysis of hotel booking data using Power BI.
+The objective is to derive actionable insights related to revenue performance, customer behavior, 
+and booking trends to support strategic decision-making in the hospitality domain.
+
+🎯 Objectives
+Analyze key performance indicators such as Revenue, ADR, RevPAR, and Occupancy Rate
+Understand customer segmentation and booking behavior
+Evaluate revenue contribution across market segments and room types
+Identify seasonal trends and demand patterns
+Support data-driven pricing and operational strategies
+📊 Dashboard Modules
+🔹 Executive Overview
+
+Provides a high-level summary of hotel performance:
+
+Net Revenue
+Total Bookings
+Average Daily Rate (ADR)
+Revenue per Available Room (RevPAR)
+Occupancy Rate
+Average Length of Stay
+Revenue and Booking Trends (Monthly)
+Revenue by Hotel Type and Market Segment
+🔹 Booking Behaviour Analysis
+
+Focuses on customer insights and booking patterns:
+
+New vs Returning Guests
+Customer Type Distribution
+Guest Segmentation (Solo, Family, Business)
+Booking Source Analysis
+Lead Time Distribution
+Stay Duration Analysis
+🔹 Revenue & Pricing Analysis
+
+Provides insights into revenue optimization:
+
+Revenue Trend Over Time
+Revenue by Room Type
+ADR by Room Category
+Revenue Contribution by Market Segment
+Seasonal Revenue Analysis
+🔹 Operational Insights
+
+Analyzes operational efficiency and trends:
+
+Cancellation Rate Analysis
+Weekend vs Weekday Revenue
+Special Requests Trend
+Monthly Stay Patterns
+Forecasting of Future Trends
+🛠️ Tools & Technologies
+Power BI Desktop – Data visualization and dashboard development
+Power Query – Data cleaning and transformation
+DAX (Data Analysis Expressions) – Calculated measures and KPIs
+🔄 Data Preparation Workflow
+Performed data cleaning by handling missing values and removing inconsistencies
+Created derived columns such as stay duration and seasonal classification
+Developed a structured data model with relationships
+Implemented DAX measures for key metrics like Revenue, ADR, RevPAR, and Occupancy Rate
+📈 Key Insights
+Online Travel Agents contribute the highest share of bookings and revenue
+City Hotels outperform Resort Hotels in terms of revenue generation
+Revenue and bookings exhibit clear seasonal patterns
+Majority of customers are first-time guests
+Booking behavior varies significantly based on lead time and stay duration
