@@ -9,7 +9,8 @@ Evaluate revenue contribution across market segments and room types
 Identify seasonal trends and demand patterns
 Support data-driven pricing and operational strategies
 📊 Dashboard Modules
-🔹 Executive Overview
+
+1. Executive Overview
 
 Provides a high-level summary of hotel performance:
 
@@ -21,7 +22,8 @@ Occupancy Rate
 Average Length of Stay
 Revenue and Booking Trends (Monthly)
 Revenue by Hotel Type and Market Segment
-🔹 Booking Behaviour Analysis
+
+2. Booking Behaviour Analysis
 
 Focuses on customer insights and booking patterns:
 
@@ -31,7 +33,8 @@ Guest Segmentation (Solo, Family, Business)
 Booking Source Analysis
 Lead Time Distribution
 Stay Duration Analysis
-🔹 Revenue & Pricing Analysis
+
+3. Revenue & Pricing Analysis
 
 Provides insights into revenue optimization:
 
@@ -40,7 +43,8 @@ Revenue by Room Type
 ADR by Room Category
 Revenue Contribution by Market Segment
 Seasonal Revenue Analysis
-🔹 Operational Insights
+
+4. Operational Insights
 
 Analyzes operational efficiency and trends:
 
@@ -49,7 +53,9 @@ Weekend vs Weekday Revenue
 Special Requests Trend
 Monthly Stay Patterns
 Forecasting of Future Trends
+
 🛠️ Tools & Technologies
+
 Power BI Desktop – Data visualization and dashboard development
 Power Query – Data cleaning and transformation
 DAX (Data Analysis Expressions) – Calculated measures and KPIs
@@ -64,3 +70,13 @@ City Hotels outperform Resort Hotels in terms of revenue generation
 Revenue and bookings exhibit clear seasonal patterns
 Majority of customers are first-time guests
 Booking behavior varies significantly based on lead time and stay duration
+
+🚀 Usage
+Download the .pbix file
+Open using Power BI Desktop
+Use available slicers (Date, Hotel, Market Segment) for interactive exploration
+
+📌 Conclusion
+
+This project demonstrates the application of business intelligence techniques to transform raw booking data into meaningful insights, 
+enabling better revenue management, customer understanding, and strategic planning in the hospitality industry.
